@@ -1,6 +1,6 @@
 # mycode (Project Title)
 
-Creating my first repository for class to track progress on projects
+I am Creating my first repository for class to track progress on projects
 
 ## Getting Started
 
