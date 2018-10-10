@@ -21,6 +21,6 @@ while (calc1 != 'q'):
     if operation == '+':
         print('\n' + str(calc1) + ' + ' + str(calc2) + ' = ' + str(calc1 + calc2))
     elif operation == '-':
-        print('\n' + str(calc1) + ' - ' + str(calc2) + ' = ' + str(calc1 + calc2))
+        print('\n' + str(calc1) + ' - ' + str(calc2) + ' = ' + str(calc1 - calc2))
     else:
         print('\n Not a valid entry. Restarting...')
